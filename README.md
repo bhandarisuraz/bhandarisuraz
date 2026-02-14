@@ -9,7 +9,7 @@
 </p>
 
 ### 👨‍💼 Professional Summary
-**Team Lead | AI Researcher | Distributed Systems**  
+**Team Lead | AI | Distributed Systems**  
 A seasoned engineer with **10+ years of experience** architecting high-availability systems and leading cross-functional teams. I bridge the gap between complex AI research and scalable production engineering.
 
 ---
