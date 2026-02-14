@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Team+Lead+%7C+10%2B+Years+Exp;Distributed+Systems;AI+Researcher;Technical+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Team+Lead+%7C+10%2B+Years+Exp;Distributed+Systems;AI+Researcher;Technical+Architect" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,15 +17,6 @@
 ### 👨‍💼 Professional Summary
 **Team Lead | AI Researcher | Distributed Systems**  
 A seasoned engineer with **10+ years of experience** architecting high-availability systems and leading cross-functional teams. I bridge the gap between complex AI research and scalable production engineering.
-
----
-
-### 🏆 Engineering Achievements
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhandarisuraz&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-trophies.vercel.app/?username=bhandarisuraz&theme=tokyonight&margin-w=10" alt="Trophies" />
-</p>
 
 ---
 
