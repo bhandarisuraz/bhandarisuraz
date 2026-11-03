@@ -34,12 +34,6 @@ Passionate about building high-performing engineering cultures founded on clean 
 - **MLOps & Practical AI/ML Integration**
 - **Engineering Mentorship, Coaching & Team Leadership**
 
-### Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhandarisuraz&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=555&count_private=true" alt="GitHub Stats" />
-</p>
-
 ---
 
 ### Connect with me
