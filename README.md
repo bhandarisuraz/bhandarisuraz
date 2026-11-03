@@ -9,8 +9,8 @@
 </p>
 
 ### Professional Summary
-**Team Lead | AI Researcher | Distributed Systems**  
-A lead engineer with **10+ years of experience** architecting high-availability systems and leading cross-functional teams. I bridge the gap between complex AI research and scalable production engineering.
+**Engineering Team Lead | Distributed Systems | Data & AI Architecture**  
+A senior engineering leader with **12+ years of experience** architecting high-availability distributed systems, massive ETL/ELT data pipelines, and production-grade AI/ML integrations. I bridge the gap between complex data processing, multi-language backend engineering (Python, Go, Node.js, PHP), and scalable production systems.
 
 ---
 
@@ -18,23 +18,21 @@ A lead engineer with **10+ years of experience** architecting high-availability 
 
 | Category | Skills |
 | :--- | :--- |
-| **Data Engineering** | ETL/ELT, Big Data, Data Mining, Data Quality, Web Scraping, Vector DBs, Kafka |
-| **Infrastructure & Ops** | Docker, K8s, CI/CD, AWS/GCP, Prometheus, Grafana |
-| **AI & ML** | NLP, Model Training, Fine-tuning, PyTorch, Embedding Models, MLOps |
-| **Systems & Backend** | Python, Node.js, FastAPI, SQL, Redis, Auth/Security, Event-Driven Architecture |
+| **Data Engineering** | ETL/ELT, Large-Scale Pipelines, Data Quality & Validation, Web Scraping, Vector DBs, Kafka |
+| **Systems & Backend** | Python, Go, Node.js, PHP, FastAPI, SQL/NoSQL, Redis, Event-Driven Architecture |
+| **AI & ML** | NLP, Model Training & Fine-Tuning, PyTorch, Embedding Models, MLOps, GenAI Integration |
+| **Infrastructure & Ops** | Docker, Kubernetes, CI/CD, AWS/GCP, Databricks/Snowflake, Prometheus, Grafana |
 
 ---
 
 ### Engineering Leadership & Mentorship
-I am passionate about building engineering cultures founded on clean code, automated workflows, and mentorship. **Focus areas:**
-- System Design at scale
-- MLOps & AI Integration
-- Team Leadership & Performance
-- Python & Product Architecture
-
----
-
----
+Passionate about building high-performing engineering cultures founded on clean code, automated workflows, and continuous growth. **Focus areas:**
+- **Cross-Functional Delivery & Process Improvement**
+- **Data Pipeline Architecture & Enterprise Data Quality**
+- **System Design & High-Throughput Distributed Systems**
+- **Risk Management, Mitigation & Operational Resilience**
+- **MLOps & Practical AI/ML Integration**
+- **Engineering Mentorship, Coaching & Team Leadership**
 
 ### Statistics
 
