@@ -9,8 +9,8 @@
 </p>
 
 ### Professional Summary
-**Engineering Team Lead | Distributed Systems | Data & AI Architecture**  
-A senior engineering leader with **12+ years of experience** architecting high-availability distributed systems, massive ETL/ELT data pipelines, and production-grade AI/ML integrations. I bridge the gap between complex data processing, multi-language backend engineering (Python, Go, Node.js, PHP), and scalable production systems.
+**Engineering Team Lead & Manager | Distributed Systems | Data & AI Architecture**  
+A senior engineering leader and manager with **12+ years of experience** building high-performing, cross-functional engineering teams and architecting high-availability distributed systems, massive ETL/ELT data pipelines, and production-grade AI/ML integrations. I bridge the gap between complex data processing, multi-language backend engineering (Python, Go, Node.js, PHP), and scalable production systems, with a strong commitment to engineering mentorship and hands-on coaching.
 
 ---
 
